@@ -1,4 +1,7 @@
-Enskyronment is a mod which aims to improve the visuals of skyblock.
+ENSKYRONMENT (god i love puns)
+Created by EvilPunkin
+
+Enskyronment is a mod which aims to improve the visuals of skyblock's environment.
 
 Features so far
 -nothing lol cause i created this project about an hour ago
@@ -17,4 +20,4 @@ Features on the todo list:
 -Essential
     -I want this to maybe be based off essential (wishful thinking probably lol)
 -Compatibility
-    -Kinda self explanatory, but I do feel that this should be considered a feature 'cause I've seen a decent chunk of mods that aren't compatible with even the most popular skyblock mods.
+    -Kinda self explanatory, but I do feel that this should be considered a feature 'cause I've seen a decent chunk of mods that aren't compatible with even the most popular skyblock mods, and that irks me.
