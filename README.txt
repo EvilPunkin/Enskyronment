@@ -5,7 +5,7 @@ Features so far
 
 Features on the todo list:
 -Add seasons
-    -Leaves and grass change color witht the turning of each skyblock season
+    -Leaves and grass change color with the turning of each skyblock season
     -In Autumn, particles will fall from multi-colored leaves
     -Also in Autumn, the leaf block textures might slowly start to disappear as time goes on, like leaves falling off the tree (maybe, idk, ill see if it looks alright)
 -Add splashes and cascades inspired by Doctor4t
